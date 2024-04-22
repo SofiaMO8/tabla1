@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+background: rgb(87, 44, 255);
+  background: linear-gradient(90deg, rgba(87, 44, 255, 1) 10%, rgba(192, 2, 255, 1) 50%, rgba(157, 46, 139, 1) 100%);;
+  color: white;
+  font-size: 30px
+}
+#mes{
+background: cornflowerblue;
+color:white;
+}
+h1{
+  color: black;
+}
